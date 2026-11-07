@@ -1,8 +1,9 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBgmkG4yDuZv-Hkvzdzy2CaQmwzdEn8WMQ",
-  authDomain: "math-quiz-d13f4.firebaseapp.com",
-  projectId: "math-quiz-d13f4",
-  storageBucket: "math-quiz-d13f4.firebasestorage.app",
-  messagingSenderId: "469846877104",
-  appId: "1:469846877104:web:52e1df1cd7b7d1ca6fac75"
+  apiKey: "AIzaSyDK6EggGoc080quKlmW8YwVwWRbhJEhQ6A",
+  authDomain: "nazinut.firebaseapp.com",
+  projectId: "nazinut",
+  storageBucket: "nazinut.firebasestorage.app",
+  messagingSenderId: "922925691101",
+  appId: "1:922925691101:web:1eedb3cdeb7fa1c9f36b34",
+  measurementId: "G-KH1J40JN8E"
 };
